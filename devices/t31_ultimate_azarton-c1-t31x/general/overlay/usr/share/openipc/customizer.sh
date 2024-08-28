@@ -18,9 +18,9 @@ cli -s .video0.codec h264
 #
 # Set wlan device and credentials if need
 #
-fw_setenv wlandev rtl8189fs-generic
-#fw_setenv wlanssid Router
-#fw_setenv wlanpass 12345678
+fw_setenv wlandev 8818fu-t31-iflytek
+fw_setenv wlanssid 888
+fw_setenv wlanpass 13689003731
 #
 #
 # Set osmem and rmem
